@@ -1,0 +1,14 @@
+# BOCW Türkçe Yama & REA Workstation — Gereksinimler
+
+# Modern Arayüz (CustomTkinter & PIL)
+customtkinter>=6.0.0
+pillow>=10.0.0
+
+# DeepL API istemcisi (opsiyonel — DEEPL_API_KEY ortam değişkeni gerektirir)
+# deepl>=1.17
+
+# Google Translate (opsiyonel — GOOGLE_TRANSLATE_KEY ortam değişkeni gerektirir)
+# google-cloud-translate>=3.0
+
+# Geliştirme / test
+pytest>=7.4
